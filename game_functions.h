@@ -1,5 +1,4 @@
-//Karol Pawlak R0010390
-//Project 2
+//Karol Pawlak 
 
 #ifndef GAME_FUNCTIONS_H_INCLUDED
 #define GAME_FUNCTIONS_H_INCLUDED
